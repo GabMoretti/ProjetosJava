@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="exsProva">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/prova/out/production/prova/exsProva.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
