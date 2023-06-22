@@ -28,13 +28,8 @@ public class Principal {
         serVivo3.setIdade(teclado.nextInt());
 
 
-        System.out.println("Homem: " + serVivo1.getNome() + ", Idade: " + serVivo1.getIdade());
         serVivo1.falar();
-
-        System.out.println("\nCachorro: " + serVivo2.getNome() + ", Idade: " + serVivo2.getIdade());
         serVivo2.falar();
-
-        System.out.println("\nGato: " + serVivo3.getNome() + ", Idade: " + serVivo3.getIdade());
         serVivo3.falar();
     }
 }
