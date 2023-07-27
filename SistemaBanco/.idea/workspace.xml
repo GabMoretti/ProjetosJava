@@ -5,16 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="daa44cc7-7ce5-4ddd-9734-f2600a8355dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banco/src/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banco/src/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banco/src/ContaPoupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banco/src/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clube/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clube/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clube/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clube/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clube/Clube.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clube/src/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clube/src/Socio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clube/src/SocioBronze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clube/src/SocioOuro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clube/src/SocioPrata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cursos2/src/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cursos2/src/Direito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cursos2/src/Marketing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cursos2/src/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cursos2/src/Sistemas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heranca/src/Caminhonete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heranca/src/TestarHeranca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heranca/src/Veiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netflix/src/Plano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netflix/src/Plano1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netflix/src/Plano2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netflix/src/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Produtos/src/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Produtos/src/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Produtos/src/ProdutoIndustria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Produtos/src/ProdutoRevenda.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SistemaBanco.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Banco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geometrias/geometrias.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veiculo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veiculo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veiculo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veiculo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veiculo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veiculo/src/Automovel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veiculo/src/Caminhao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veiculo/src/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veiculo/src/Moto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veiculo/src/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../veiculo/veiculo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polimorfismo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Polimorfismo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polimorfismo/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Polimorfismo/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +84,9 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;ToolWindowGit.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>

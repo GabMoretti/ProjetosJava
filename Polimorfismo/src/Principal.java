@@ -22,7 +22,7 @@ public class Principal {
 
         SerVivo serVivo3 = new Gato();
         System.out.println("\nInforme o nome do gato: ");
-        serVivo2.setNome(teclado.next());
+        serVivo3.setNome(teclado.next());
 
         System.out.println("Informe a idade do gato: ");
         serVivo3.setIdade(teclado.nextInt());
